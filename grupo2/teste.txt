@@ -1,0 +1,39 @@
+var enemy = hero.findNearstEnemy()
+
+
+hero.buildXY("fence", 40, 20);
+
+
+
+// Use um loop while-true para mover-se e atacar.
+while(true) {
+hero.moveRight();
+hero.moveUp();
+hero.moveRight();
+var enemy = hero.findNearestEnemy();
+hero.attack(enemy);
+hero.attack(enemy);
+hero.moveDown(2);
+hero.moveUp();
+}
+hero.moveRight();
+hero.moveUp();
+var enemy = hero.findNearestEnemy();
+hero.attack(enemy);
+hero.attack(enemy);
+hero.moveRight();
+hero.moveDown(2);
+hero.moveUp();
+hero.moveRight();
+hero.moveUp();
+var enemy = hero.findNearestEnemy();
+hero.attack(enemy);
+hero.attack(enemy);
+hero.moveRight();
+hero.moveDown(2);
+hero.moveUp();
+hero.moveRight();
+
+}
+
+

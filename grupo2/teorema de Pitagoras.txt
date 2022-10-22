@@ -1,0 +1,4 @@
+O teorema de Pitágoras é uma fórmula que nos permite relacionar as medidas dos lados de um triângulo retângulo. Nessa figura geométrica, os lados perpendiculares são conhecidos como catetos, e o lado oposto ao ângulo de 90º é conhecido como hipotenusa.
+
+
+O Teorema de Pitagoras é a fórmula pela qual o filósofo, matemático, astrônomo e músico grego pré-socrático que nasceu na ilha de Samos no ano aproximado de 570 a.C. e morreu, provavelmente, em 496 a.C. encontrou para explicar como se encontra o valor de uma diagonal de um quadrado ou altura de um triângulo retangulo. Essa formula nos permite relacionar as medidas dos lados de um triângulo retângulo pois em qualquer triângulo retângulo, o quadrado do comprimento da hipotenusa é igual à soma dos quadrados dos comprimentos dos catetos.
